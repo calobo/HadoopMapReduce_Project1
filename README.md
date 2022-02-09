@@ -7,6 +7,7 @@ How to Run:
 3. Read output in "part-r-00000" in the output folder.
 
 Task Decriptions:
+
 4.a) Task a 
 Write a job(s) that reports all Facebook users (name, and hobby) 
 whose Nationality is the same as your own Nationality (pick one). 
